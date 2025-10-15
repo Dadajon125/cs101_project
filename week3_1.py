@@ -1,4 +1,3 @@
-
 print("---Movie Ticket Pricer---")
 a = int(input("please enter your age: " ))
 if a <= 12:

@@ -7,7 +7,7 @@ while a == "done" :
     if b == "done" :
         print ("--- Final Calculation ---")
         break
-    c+=float (b)
+    c+= float (b)
     print(f"Current total : {c:.1f}") 
 print (f"The final sum of all numbers is: {c:.1f}")
 
